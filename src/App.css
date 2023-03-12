@@ -1,0 +1,79 @@
+body {
+    max-width: 768px;
+    margin: auto;
+    width: 100%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+}
+
+.App {
+    margin-top: 100px;
+}
+
+.search-color-box {
+    padding: 8px;
+    border-radius: 6px;
+    outline: none;
+    border: 2px solid #d3d3d3;
+    margin-right: 8px;
+}
+
+.colors-container {
+    margin-top: 100px;
+}
+
+.color-box-container {
+    display: flex;
+    align-items: center;
+}
+
+.color-box {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    margin-right: 32px;
+}
+
+td {
+    width: 200px;
+}
+
+.invalid-color {
+    color: red;
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.color-choosers{
+    display: flex;
+    align-items: center;
+}
